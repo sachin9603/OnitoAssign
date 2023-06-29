@@ -61,3 +61,8 @@ application.properties :
  
 ## api to run program with "/api/vi
 #http://localhost:8822/api/v1/top-rated-movies
+
+## Thank you note
+Thank you all who is giving precious time to visit our little creative project which is made with lot of efforts.
+
+_<p align="center"><sub>- Readme file designed by <a href="https://github.com/sachin9603">Sachin Parmar</a> -</sub></p>_
